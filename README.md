@@ -1,5 +1,6 @@
 ### Hi, my name is Henrique and I'm and iOS developer from 🇧🇷 Brazil 🇧🇷
 
+- 💻 I started programming in 2009 with pascal and then [Delphi](https://www.youtube.com/watch?v=F9dZjaj6HqQ).
 - 👨🏻‍🎓 I have a Computer Engineering degree from [UFRGS](https://www.ufrgs.br). 
   - Work presented in partial fulfillment of the requirements for the degree of Bachelor in Computer Engineering: [TS2Image](https://github.com/hvsw/TS2Image).
 - 🔭 I’m currently working on iOS development

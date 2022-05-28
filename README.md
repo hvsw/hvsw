@@ -1,6 +1,7 @@
 ### Hi, my name is Henrique and I'm and iOS developer from 🇧🇷 Brazil 🇧🇷
 
-- I have a Computer Engineering degree from UFRGS.br
+- 👨🏻‍🎓 I have a Computer Engineering degree from [UFRGS](https://www.ufrgs.br). 
+  - Work presented in partial fulfillment of the requirements for the degree of Bachelor in Computer Engineering: [TS2Image](https://github.com/hvsw/TS2Image).
 - 🔭 I’m currently working on iOS development
 - 🌱 I’m currently learning about
   - 🧠 Knowledge management systems

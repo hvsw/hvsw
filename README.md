@@ -1,4 +1,4 @@
-### Hi, my name is Henrique and I'm and iOS developer from 🇧🇷 Brazil 🇧🇷
+### Hi, my name is Henrique and I'm and iOS developer from Brazil 🇧🇷
 
 - 💻 I started programming in 2009 with pascal and then [Delphi](https://www.youtube.com/watch?v=F9dZjaj6HqQ).
 - 👨🏻‍🎓 I have a Computer Engineering degree from [UFRGS](https://www.ufrgs.br). 

@@ -1,6 +1,6 @@
 ### Hi, I am Henrique, an iOS developer from Brazil 🇧🇷 working remotely since September 2018.
 
-💼 Looking for jobs? [Here]([url](https://linktr.ee/henriquedev)).
+💼 Looking for jobs? [Click here](https://linktr.ee/henriquedev).
 
 - 💻 I started programming in 2009 with Pascal, and then [Delphi](https://www.youtube.com/watch?v=F9dZjaj6HqQ).
 - 👨🏻‍🎓 I have a Computing Engineering degree from [UFRGS](https://www.ufrgs.br/english).
